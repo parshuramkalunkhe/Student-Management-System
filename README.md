@@ -12,7 +12,7 @@ Key Features:
 6. **Responsive Design**: The web application is designed to be responsive, ensuring a seamless user experience across different devices and screen sizes.
 
 Technology Stack:
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS
 - **Backend**: Java Servlets
 - **Database**: MySQL
 - **Server-side Scripting**: JavaServer Pages (JSP)
