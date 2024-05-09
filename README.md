@@ -1,5 +1,5 @@
 # Student Management System
-Mar 2024 - Apr 2024Mar 2024 - Apr 2024
+Mar 2024 - Apr 2024
 
 The Student Management System is a web-based application developed to facilitate the management of student profiles. It allows users, typically administrators or authorized personnel, to view, update, and delete student records stored in a database.
 
